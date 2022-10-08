@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/countie/static/css/main.e3928d34.css",
-    "main.js": "/countie/static/js/main.08b88f0c.js",
-    "static/js/787.9c74c3a3.chunk.js": "/countie/static/js/787.9c74c3a3.chunk.js",
-    "index.html": "/countie/index.html",
-    "main.e3928d34.css.map": "/countie/static/css/main.e3928d34.css.map",
-    "main.08b88f0c.js.map": "/countie/static/js/main.08b88f0c.js.map",
-    "787.9c74c3a3.chunk.js.map": "/countie/static/js/787.9c74c3a3.chunk.js.map"
+    "main.css": "/countrie/static/css/main.e3928d34.css",
+    "main.js": "/countrie/static/js/main.28e9305f.js",
+    "static/js/787.9c74c3a3.chunk.js": "/countrie/static/js/787.9c74c3a3.chunk.js",
+    "index.html": "/countrie/index.html",
+    "main.e3928d34.css.map": "/countrie/static/css/main.e3928d34.css.map",
+    "main.28e9305f.js.map": "/countrie/static/js/main.28e9305f.js.map",
+    "787.9c74c3a3.chunk.js.map": "/countrie/static/js/787.9c74c3a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3928d34.css",
-    "static/js/main.08b88f0c.js"
+    "static/js/main.28e9305f.js"
   ]
 }
